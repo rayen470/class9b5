@@ -1,0 +1,26 @@
+/** Start Question 1 and 2**/
+ul {
+  list-style-type: none;
+}
+
+li {
+  width : 100%;
+  text-align: center;
+  float: right;
+  border:1px solid #000;
+  box-sizing: border-box;
+  padding: 10px;
+  background-color:transparent;
+}
+li a{
+  color: #000;
+  text-decoration: none;
+}
+/** End Question 1 and 2 **/
+
+/** Start Question 3 **/
+li:hover{
+  background-color:#b3e5fc;
+  cursor:pointer
+}
+/** End Question 3 **/
